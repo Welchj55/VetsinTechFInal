@@ -1,0 +1,15 @@
+.digitalDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sketchDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.canvasDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
